@@ -1,2 +1,7 @@
-# BME-450-Neural-Network
-BME 450 Final Project 
+# Title
+"
+#Team members
+John Picucci(jpicucci), Patricio Figueroa()
+#Project Description
+  In this project, we intend to use 
+
